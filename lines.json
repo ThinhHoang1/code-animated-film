@@ -1,0 +1,1024 @@
+{
+ "voices": {
+  "toi": {
+   "voice": "Puck",
+   "style": "a 23-year-old Gen Z guy from Hanoi roasting his own life to close friends: heavy sarcasm and self-mockery, a smirk you can hear, dry mocking irony like a stand-up comic; short derisive chuckles slip out naturally around the punchlines (a breathy 'hừ', a little 'hề hề'); casual swearing is natural for him; Northern Vietnamese accent; lively, quick pace"
+  },
+  "me": {
+   "voice": "Gacrux",
+   "style": "a 50-year-old mother from the Northern Vietnamese countryside, warm, quick-tongued, a little nagging, Northern accent."
+  },
+  "tuan": {
+   "voice": "Iapetus",
+   "style": "a 28-year-old man from Hanoi, tired, gentle, self-deprecating, Northern Vietnamese accent."
+  },
+  "khach": {
+   "voice": "Iapetus",
+   "style": "a calm young man reading his own short text message aloud, soft and low, Northern Vietnamese accent."
+  },
+  "hung": {
+   "voice": "Algenib",
+   "style": "a 55-year-old uncle from the Northern Vietnamese countryside, tipsy at a family party, loud and jovial, Northern accent."
+  },
+  "diut": {
+   "voice": "Sulafat",
+   "style": "a 40-year-old kind aunt from the Northern Vietnamese countryside, emotional, Northern accent."
+  }
+ },
+ "chuong": {
+  "1": "Omakase mười nghìn",
+  "2": "Một trăm nghìn một ngày",
+  "3": "Anh Tuấn",
+  "4": "Hai luật của nghề",
+  "5": "Khách đêm",
+  "6": "Ảnh cho mẹ",
+  "7": "Tay ai đây",
+  "8": "Linh Lang, nửa đêm",
+  "9": "Bài nói thật",
+  "10": "Ruốc. Ăn dần.",
+  "11": "Giỗ ông ngoại"
+ },
+ "lines": [
+  {
+   "f": 1,
+   "ch": 1,
+   "who": "toi",
+   "t": "Mười một giờ đêm thứ bảy, tôi bày tám miếng sushi siêu thị giảm năm mươi phần trăm lên cái thớt, bật đèn bàn, giơ điện thoại lên. Tách.",
+   "hien": "Mười một giờ đêm thứ bảy, tôi bày tám miếng sushi siêu thị giảm năm mươi phần trăm lên cái thớt, bật đèn bàn, giơ điện thoại lên. Tách.",
+   "hinh": "Phòng trọ đêm, camera trôi vào bàn. Hiếu bày từng miếng sushi, chỉnh đèn, giơ điện thoại. Đèn flash loé.",
+   "dien": "Calm, cinematic opening, a little proud of the setup, the final 'Tách.' as a crisp camera-shutter word. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 2,
+   "ch": 1,
+   "who": "toi",
+   "t": "Ba mươi góc. Bữa này tuần sau sẽ thành omakase của ba mươi người trên Threads, mỗi đứa trả tôi mười nghìn.",
+   "hien": "Ba mươi góc. Bữa này tuần sau sẽ thành omakase của ba mươi người trên Threads, mỗi đứa trả tôi mười nghìn.",
+   "hinh": "Cận thớt từ trên xuống, khung ngắm camera điện thoại. Bộ đếm chạy 1→30, mỗi lần chụp thớt xoay một góc, đèn loé.",
+   "dien": "Business-like, like explaining a clever hustle. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 3,
+   "ch": 1,
+   "who": "toi",
+   "t": "Người duy nhất được ăn thật là tôi. Sau khi chụp xong. Nguội ngắt, nhưng mà sang.",
+   "hien": "Người duy nhất được ăn thật là tôi. Sau khi chụp xong. Nguội ngắt, nhưng mà sang.",
+   "hinh": "Hiếu gắp một miếng cho vào mồm, nhai, gật gù mặt \"sang\".",
+   "dien": "Deadpan, then a smug little laugh on 'nhưng mà sang'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 4,
+   "ch": 1,
+   "who": "toi",
+   "t": "Trên bàn tay cầm đũa có cái nhẫn bạc mẹ tôi mua. Ba tháng sau, chính cái nhẫn này làm mẹ tôi gọi video lúc mười hai giờ trưa, không hỏi ăn cơm chưa, mà hỏi: Tay ai đây?",
+   "hien": "Trên bàn tay cầm đũa có cái nhẫn bạc mẹ tôi mua. Ba tháng sau, chính cái nhẫn này làm mẹ tôi gọi video lúc mười hai giờ trưa, không hỏi ăn cơm chưa, mà hỏi: \"Tay ai đây?\"",
+   "hinh": "Cận bàn tay, nhẫn lấp lánh. Chuyển sang điện thoại rung, màn hình \"Mẹ – cuộc gọi video\". Mặt mẹ hiện lên, nheo mắt.",
+   "dien": "Story turn: start casual, slow down ominously, then quote the mother's sharp 'Tay ai đây?'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 5,
+   "ch": 2,
+   "who": "toi",
+   "t": "Tôi hai ba tuổi, chụp ảnh sản phẩm cho một shop đồ gỗ. Tức là cả ngày tôi chụp thớt. Thớt gỗ, thớt nhựa, thớt tre. Đời tôi xoay quanh cái thớt.",
+   "hien": "Tôi hai ba tuổi, chụp ảnh sản phẩm cho một shop đồ gỗ. Tức là cả ngày tôi chụp thớt. Thớt gỗ, thớt nhựa, thớt tre. Đời tôi xoay quanh cái thớt.",
+   "hinh": "Xưởng chụp ảnh ban ngày: Hiếu đứng giữa núi thớt, chỉnh đèn softbox, bấm máy. Sếp đặt thêm một chồng thớt.",
+   "dien": "Self-mocking, building up the list of cutting boards, land 'Đời tôi xoay quanh cái thớt' as a punchline. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 6,
+   "ch": 2,
+   "who": "toi",
+   "t": "Lương tám triệu. Tin tuyển dụng hay ghi lương từ tám triệu. Thì đấy, tôi chính là cái chữ từ đấy.",
+   "hien": "Lương tám triệu. Tin tuyển dụng hay ghi \"lương từ tám triệu\". Thì đấy, tôi chính là cái chữ \"từ\" đấy.",
+   "hinh": "Tin tuyển dụng trên điện thoại. Ngón tay khoanh chữ \"từ\", hiện mặt Hiếu bên cạnh.",
+   "dien": "Dry, then proud-sad on 'tôi chính là cái chữ từ đấy'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 7,
+   "ch": 2,
+   "who": "toi",
+   "t": "Phòng trọ hai mươi mét vuông ở Cầu Giấy, năm triệu cả điện nước. Tám trừ năm còn ba. Ba triệu chia ba mươi ngày: một trăm nghìn một ngày. Một trăm nghìn ở Hà Nội thì làm được gì? Đéo gì cả.",
+   "hien": "Phòng trọ hai mươi mét vuông ở Cầu Giấy, năm triệu cả điện nước. Tám trừ năm còn ba. Ba triệu chia ba mươi ngày: một trăm nghìn một ngày. Một trăm nghìn ở Hà Nội thì làm được gì? Đéo gì cả.",
+   "hinh": "Tiền bay khỏi ví: 5 tờ bay sang chủ trọ (bà chủ trọ đeo kính đếm tiền). Còn 3 tờ, chia vụn thành 30 mẩu.",
+   "dien": "Counting quickly, then a rhetorical question, pause, and a blunt swearing punchline 'Đéo gì cả.' || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 8,
+   "ch": 2,
+   "who": "toi",
+   "t": "Tôi kẻ lên tường ba mươi ô, tối nào cũng gạch một ô như thằng tù gạch ngày. Khác mỗi thằng tù nó còn được nhà nước nuôi cơm.",
+   "hien": "Tôi kẻ lên tường ba mươi ô, tối nào cũng gạch một ô như thằng tù gạch ngày. Khác mỗi thằng tù nó còn được nhà nước nuôi cơm.",
+   "hinh": "Hiếu cầm bút đỏ gạch ô trên lịch tường. Cảnh tưởng tượng: phòng giam, tù nhân gạch tường đang ăn khay cơm có thịt.",
+   "dien": "Mock-dramatic comparison with prisoners, bitter laugh at the end. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 9,
+   "ch": 2,
+   "who": "toi",
+   "t": "Báo bảo chưa tới một nửa Gen Z có tiền tiết kiệm đủ ba tháng. Tôi tiết kiệm được ba ngày. Với điều kiện tháng đấy không đứa nào cưới.",
+   "hien": "Báo bảo chưa tới một nửa Gen Z có tiền tiết kiệm đủ ba tháng. Tôi tiết kiệm được ba ngày. Với điều kiện tháng đấy không đứa nào cưới.",
+   "hinh": "Lợn đất của Hiếu: lắc ra 3 đồng xu. Thiệp cưới bay vào, đập vỡ lợn.",
+   "dien": "Mock-serious statistic, then deadpan 'ba ngày', then a sly add-on about weddings. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 10,
+   "ch": 2,
+   "who": "toi",
+   "t": "Thế sao không nhảy việc? Nhảy cái con khỉ. Năm ngoái việc cho người mới ra trường ít hơn năm hai không hai ba ba mươi bảy phần trăm. Tôi mà nghỉ là thành cái xi vi nằm trên bàn đứa khác.",
+   "hien": "Thế sao không nhảy việc? Nhảy cái con khỉ. Năm ngoái việc cho người mới ra trường ít hơn năm hai không hai ba ba mươi bảy phần trăm. Tôi mà nghỉ là thành cái CV nằm trên bàn đứa khác.",
+   "hinh": "Hiếu bật lên định nhảy, rơi tõm vào chồng CV khổng lồ, bị nhét vào một xấp.",
+   "dien": "Scoff on 'Nhảy cái con khỉ', rattle the statistic fast, end bitter-funny. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 11,
+   "ch": 2,
+   "who": "toi",
+   "t": "Thứ duy nhất trong đời tôi không phải tính tiền là ruốc. Tháng nào mẹ cũng gửi xe khách lên một lọ: lọ cà phê cũ, nắp buộc chun, dán băng dính, chữ mẹ: Ruốc. Ăn dần.",
+   "hien": "Thứ duy nhất trong đời tôi không phải tính tiền là ruốc. Tháng nào mẹ cũng gửi xe khách lên một lọ: lọ cà phê cũ, nắp buộc chun, dán băng dính, chữ mẹ: \"Ruốc. Ăn dần.\"",
+   "hinh": "Bến xe ở quê: mẹ đưa lọ ruốc cho phụ xe. Xe khách chạy. Lọ ruốc tới tay Hiếu, cận băng dính.",
+   "dien": "Warm and tender for the first time, slowing down on the mother's handwriting 'Ruốc. Ăn dần.' || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 12,
+   "ch": 2,
+   "who": "toi",
+   "t": "Mẹ viết cả hướng dẫn sử dụng cho ruốc. Như kiểu không dặn thì thằng con mẹ tu một hơi hết lọ. Mà nói thật, có hôm suýt.",
+   "hien": "Mẹ viết cả hướng dẫn sử dụng cho ruốc. Như kiểu không dặn thì thằng con mẹ tu một hơi hết lọ. Mà nói thật, có hôm suýt.",
+   "hinh": "Hiếu ngửa cổ dốc lọ ruốc, khựng lại, nhìn chữ \"Ăn dần\", đặt xuống.",
+   "dien": "Amused at mom, then guilty confession on 'có hôm suýt'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 13,
+   "ch": 2,
+   "who": "toi",
+   "t": "Mẹ hỏi lương, tôi bảo cũng được. Nhưng mẹ tôi soi phông bạt từ trước khi có Threads. Hồi lớp năm, tôi khai được chín điểm toán. Mẹ đéo xem sổ, mẹ nhìn tai tôi. Tai đỏ. Bốn điểm.",
+   "hien": "Mẹ hỏi lương, tôi bảo \"cũng được\". Nhưng mẹ tôi soi phông bạt từ trước khi có Threads. Hồi lớp năm, tôi khai được chín điểm toán. Mẹ đéo xem sổ, mẹ nhìn tai tôi. Tai đỏ. Bốn điểm.",
+   "hinh": "Hồi tưởng lớp 5: Hiếu bé cầm sổ, mẹ cúi nhìn, tai Hiếu đỏ dần như đèn giao thông. Sổ mở ra: 4.",
+   "dien": "Storytelling a childhood memory, building suspense, beats on 'Tai đỏ.' and 'Bốn điểm.' as punchlines. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 14,
+   "ch": 2,
+   "who": "toi",
+   "t": "Nên từ đấy, nói chuyện lương với mẹ, tôi chỉ gọi thoại. Gọi video là toang.",
+   "hien": "Nên từ đấy, nói chuyện lương với mẹ, tôi chỉ gọi thoại. Gọi video là toang.",
+   "hinh": "Hiếu cầm điện thoại, ngón tay né nút video, bấm nút thoại.",
+   "dien": "Sheepish, then 'Gọi video là toang' as a snappy punchline. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 15,
+   "ch": 3,
+   "who": "toi",
+   "t": "Mẹ thôi hỏi lương tôi. Mẹ có vũ khí hay hơn: anh Tuấn.",
+   "hien": "Mẹ thôi hỏi lương tôi. Mẹ có vũ khí hay hơn: anh Tuấn.",
+   "hinh": "Mẹ ở bếp quê, rút điện thoại như rút kiếm.",
+   "dien": "Dramatic like announcing a boss fight on 'anh Tuấn'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 16,
+   "ch": 3,
+   "who": "toi",
+   "t": "Anh Tuấn là con bác Thoa, chị gái mẹ tôi. Làm ngân hàng, lương năm mươi triệu. Theo lời bác Thoa, người đọc con số đấy năm năm nay, đều như kinh.",
+   "hien": "Anh Tuấn là con bác Thoa, chị gái mẹ tôi. Làm ngân hàng, lương năm mươi triệu. Theo lời bác Thoa, người đọc con số đấy năm năm nay, đều như kinh.",
+   "hinh": "Bác Thoa cầm loa, ảnh anh Tuấn mặc vest đứng sau, chữ \"50\" to như biển quảng cáo.",
+   "dien": "Sarcastic, impersonating the aunt's bragging on 'đều như kinh'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 17,
+   "ch": 3,
+   "who": "toi",
+   "t": "Cục Thống kê bảo lao động làm công ở thành phố trung bình mười một phẩy hai triệu. Tôi kéo trung bình xuống, anh Tuấn kéo lên. Cộng hai anh em chia đôi, họ nhà tôi vẫn trên trung bình, nghe cũng mát mặt phết.",
+   "hien": "Cục Thống kê bảo lao động làm công ở thành phố trung bình mười một phẩy hai triệu. Tôi kéo trung bình xuống, anh Tuấn kéo lên. Cộng hai anh em chia đôi, họ nhà tôi vẫn trên trung bình, nghe cũng mát mặt phết.",
+   "hinh": "Bập bênh: Hiếu một đầu chạm đất, anh Tuấn đầu kia bay lên trời. Vạch \"11,2 triệu\" ở giữa.",
+   "dien": "Mock-statistician, self-deprecating, ends smug-ironic. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 18,
+   "ch": 3,
+   "who": "toi",
+   "t": "Một giám đốc nhân sự từng nói với báo: lương trung bình trên LinkedIn khoảng hai mươi triệu, sang Threads thì từ năm mươi.",
+   "hien": "Một giám đốc nhân sự từng nói với báo: lương trung bình trên LinkedIn khoảng hai mươi triệu, sang Threads thì từ năm mươi.",
+   "hinh": "Threads City hiện ra lần đầu: thành phố toà nhà là các bài đăng, biển neon \"50 TRIỆU\", \"LƯƠNG 80\".",
+   "dien": "Quoting a news piece, wide-eyed on 'từ năm mươi'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 19,
+   "ch": 3,
+   "who": "toi",
+   "t": "Tức là muốn lương tăng gấp đôi rưỡi, đéo cần nhảy việc. Chỉ cần nhảy app.",
+   "hien": "Tức là muốn lương tăng gấp đôi rưỡi, đéo cần nhảy việc. Chỉ cần nhảy app.",
+   "hinh": "Hiếu nhảy từ biểu tượng LinkedIn sang biểu tượng Threads, đồng tiền nảy theo.",
+   "dien": "Punchline delivery, beat before 'Chỉ cần nhảy app'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 20,
+   "ch": 3,
+   "who": "toi",
+   "t": "Anh Tuấn đạt mức lương Threads từ hồi chưa có Threads. Đúng là con nhà người ta, đi trước thời đại.",
+   "hien": "Anh Tuấn đạt mức lương Threads từ hồi chưa có Threads. Đúng là con nhà người ta, đi trước thời đại.",
+   "hinh": "Anh Tuấn đứng trên bục huy chương, đội vương miện, phía dưới ghi \"2021\".",
+   "dien": "Fake admiration, sarcastic. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 21,
+   "ch": 3,
+   "who": "toi",
+   "t": "Trưa nào mẹ cũng gọi, câu mở đầu chưa đổi bao giờ:",
+   "hien": "Trưa nào mẹ cũng gọi, câu mở đầu chưa đổi bao giờ:",
+   "hinh": "Đồng hồ 12:00, điện thoại rung.",
+   "dien": "Weary, setting up the mother's catchphrase. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 22,
+   "ch": 3,
+   "who": "me",
+   "t": "Ăn gì chưa? Hôm qua bác Thoa lại kể anh Tuấn…",
+   "hien": "\"Ăn gì chưa? Hôm qua bác Thoa lại kể anh Tuấn…\"",
+   "hinh": "Mẹ gọi thoại, sóng âm. Hiếu úp mặt vào bàn.",
+   "dien": "Northern Vietnamese mother on the phone at noon, loving but nagging, slightly fast, trailing off on 'anh Tuấn…'."
+  },
+  {
+   "f": 23,
+   "ch": 3,
+   "who": "toi",
+   "t": "Nhóm Zalo nhà ngoại thì tôi tắt thông báo lâu rồi. Trong đấy toàn ảnh mờ, méo, dính logo của ba trang khác nhau. Tin trong nhóm đến tai tôi đúng một đường: mẹ, mười hai giờ trưa.",
+   "hien": "Nhóm Zalo nhà ngoại thì tôi tắt thông báo lâu rồi. Trong đấy toàn ảnh mờ, méo, dính logo của ba trang khác nhau. Tin trong nhóm đến tai tôi đúng một đường: mẹ, mười hai giờ trưa.",
+   "hinh": "Nhóm Zalo trôi: ảnh hoa sen mờ, mẹo chữa bệnh. Nút chuông bị gạch.",
+   "dien": "Dry and annoyed, then precise on 'mẹ, mười hai giờ trưa'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 24,
+   "ch": 4,
+   "who": "toi",
+   "t": "Tháng sáu, báo viết về chợ ảnh phông bạt trên Threads: ảnh omakase, ảnh ghế hạng thương gia, từ một nghìn đến hai mươi nghìn một tấm. Có shop bán gần năm trăm tấm trong năm ngày.",
+   "hien": "Tháng sáu, báo viết về chợ ảnh phông bạt trên Threads: ảnh omakase, ảnh ghế hạng thương gia, từ một nghìn đến hai mươi nghìn một tấm. Có shop bán gần năm trăm tấm trong năm ngày.",
+   "hinh": "Hiếu đọc báo trên điện thoại, mắt sáng lên ra hai dấu \"đ\".",
+   "dien": "Excited discovery, faster, eyes lit up. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 25,
+   "ch": 4,
+   "who": "toi",
+   "t": "Tôi nhìn cái thớt. Cái thớt nhìn tôi. Ban ngày nó đi làm cho sếp, ban đêm nó đi làm cho tôi.",
+   "hien": "Tôi nhìn cái thớt. Cái thớt nhìn tôi. Ban ngày nó đi làm cho sếp, ban đêm nó đi làm cho tôi.",
+   "hinh": "Hiếu và cái thớt nhìn nhau, thớt mọc mắt chớp chớp.",
+   "dien": "Deadpan staring-contest comedy, slow beats. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 26,
+   "ch": 4,
+   "who": "toi",
+   "t": "Ghế hạng thương gia thì là ghế mát xa ở siêu thị điện máy, chụp sát. Chị bán hàng tưởng tôi sắp mua. Tuần nào tôi cũng sắp mua.",
+   "hien": "Ghế hạng thương gia thì là ghế mát xa ở siêu thị điện máy, chụp sát. Chị bán hàng tưởng tôi sắp mua. Tuần nào tôi cũng sắp mua.",
+   "hinh": "Siêu thị điện máy: Hiếu nằm ghế mát xa, chụp cận tay vịn. Chị bán hàng đứng cạnh cầm tờ trả góp, cười tươi.",
+   "dien": "Embarrassed but cheeky, punchline 'Tuần nào tôi cũng sắp mua'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 27,
+   "ch": 4,
+   "who": "toi",
+   "t": "Nghề có hai luật. Một: mỗi khách một góc, để mấy đứa rảnh rỗi đi chéc va không bắt được hai tài khoản đăng cùng một tấm.",
+   "hien": "Nghề có hai luật. Một: mỗi khách một góc, để mấy đứa rảnh rỗi đi check var không bắt được hai tài khoản đăng cùng một tấm.",
+   "hinh": "Hai tài khoản đăng cùng một ảnh, một thám tử Threads cầm kính lúp soi.",
+   "dien": "Explaining trade secrets like a hustler mentor. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 28,
+   "ch": 4,
+   "who": "toi",
+   "t": "Hai: phải có tay. Shop khác toàn tay con gái, móng đính đá. Khách nam thì muốn tay nam. Cả cái chợ, chỉ có mỗi thằng tôi bán tay nam.",
+   "hien": "Hai: phải có tay. Shop khác toàn tay con gái, móng đính đá. Khách nam thì muốn tay nam. Cả cái chợ, chỉ có mỗi thằng tôi bán tay nam.",
+   "hinh": "Một hàng bàn tay con gái móng lấp lánh, giữa hàng là một bàn tay đàn ông thô.",
+   "dien": "Proud monopoly boast at the end. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 29,
+   "ch": 4,
+   "who": "toi",
+   "t": "Mà tay tôi lại đeo cái nhẫn bạc mẹ mua ở cổng chùa, khắc đúng một chữ: Nhẫn. Hôm tôi lên Hà Nội đi học, mẹ đeo vào tay tôi, dặn:",
+   "hien": "Mà tay tôi lại đeo cái nhẫn bạc mẹ mua ở cổng chùa, khắc đúng một chữ: Nhẫn. Hôm tôi lên Hà Nội đi học, mẹ đeo vào tay tôi, dặn:",
+   "hinh": "Hồi tưởng cổng chùa: mẹ mua nhẫn ở sạp. Bến xe: mẹ đeo nhẫn cho Hiếu 18 tuổi.",
+   "dien": "Softening into a memory, gentle. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 30,
+   "ch": 4,
+   "who": "me",
+   "t": "Lên đấy cái gì cũng phải nhẫn.",
+   "hien": "\"Lên đấy cái gì cũng phải nhẫn.\"",
+   "hinh": "Mẹ nói, tay vỗ vai.",
+   "dien": "A Northern Vietnamese countryside mother giving a heartfelt parting instruction at a bus station, gentle but firm."
+  },
+  {
+   "f": 31,
+   "ch": 4,
+   "who": "toi",
+   "t": "Tôi định tháo ra lúc chụp, khách lại bảo tay trơn nhìn như tay mẫu, có nhẫn mới ra người thật. Ừ thì người thật, nghèo thật.",
+   "hien": "Tôi định tháo ra lúc chụp, khách lại bảo tay trơn nhìn như tay mẫu, có nhẫn mới ra người thật. Ừ thì người thật, nghèo thật.",
+   "hinh": "Hai bàn tay so sánh: tay trơn có chữ \"giả\", tay đeo nhẫn có chữ \"thật\".",
+   "dien": "Wry, ends with self-mocking 'nghèo thật'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 32,
+   "ch": 4,
+   "who": "toi",
+   "t": "Mỗi tuần một bữa, ba mươi góc, ba trăm nghìn. Cái tay nuôi thêm được nửa cái mồm.",
+   "hien": "Mỗi tuần một bữa, ba mươi góc, ba trăm nghìn. Cái tay nuôi thêm được nửa cái mồm.",
+   "hinh": "Hiếu đếm tiền 300 nghìn. Miệng Hiếu nửa cười nửa méo.",
+   "dien": "Counting money, half-happy half-bitter. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 33,
+   "ch": 4,
+   "who": "toi",
+   "t": "Sáu ngày trong tuần tôi ăn cơm ruốc. Thứ bảy ăn sushi. Sushi đã đi làm xong một ca, nguội ngắt, nhưng vẫn là sushi, đờ mờ.",
+   "hien": "Sáu ngày trong tuần tôi ăn cơm ruốc. Thứ bảy ăn sushi. Sushi đã đi làm xong một ca, nguội ngắt, nhưng vẫn là sushi, đm.",
+   "hinh": "Lịch tuần: sáu bát cơm ruốc, ô thứ bảy là đĩa sushi có hào quang.",
+   "dien": "Building up, then a mild swear 'đờ mờ' with affection. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 34,
+   "ch": 4,
+   "who": "toi",
+   "t": "Tôi gọi khách là các bảnh. Trong sổ ghi hẳn: các bảnh sống ảo. Lấy tiền người ta xong còn chửi người ta, mẹ nó, tôi đúng là có khiếu kinh doanh.",
+   "hien": "Tôi gọi khách là \"các bảnh\". Trong sổ ghi hẳn: \"các bảnh sống ảo\". Lấy tiền người ta xong còn chửi người ta, mẹ nó, tôi đúng là có khiếu kinh doanh.",
+   "hinh": "Sổ khách, Hiếu viết chữ \"sống ảo\", cười khẩy kiểu đại ca.",
+   "dien": "Cocky small-time boss, laughing at himself. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 35,
+   "ch": 5,
+   "who": "toi",
+   "t": "Khách quen nhất mua đúng mười một giờ bốn mươi tối thứ bảy. Chỉ lấy ảnh mới nhất, đéo mặc cả. Người Việt mà không mặc cả mười nghìn là tôi thấy hơi sợ rồi.",
+   "hien": "Khách quen nhất mua đúng mười một giờ bốn mươi tối thứ bảy. Chỉ lấy ảnh mới nhất, đéo mặc cả. Người Việt mà không mặc cả mười nghìn là tôi thấy hơi sợ rồi.",
+   "hinh": "Điện thoại báo +10.000 đúng 23:40. Hiếu lùi lại nhìn điện thoại như nhìn ma.",
+   "dien": "Suspicious, a little spooked at the end. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 36,
+   "ch": 5,
+   "who": "toi",
+   "t": "Khách chuyển tiền từ tài khoản tên Phạm Văn Dũng, còn Threads thì tên T.",
+   "hien": "Khách chuyển tiền từ tài khoản tên Phạm Văn Dũng, còn Threads thì tên \"T.\"",
+   "hinh": "Sao kê hiện \"PHAM VAN DUNG\", bên cạnh avatar Threads chữ T.",
+   "dien": "Reading a bank statement, curious. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 37,
+   "ch": 5,
+   "who": "toi",
+   "t": "Khách hàng có quyền dùng tiền người khác. Miễn tiền thật. Tôi kệ mẹ.",
+   "hien": "Khách hàng có quyền dùng tiền người khác. Miễn tiền thật. Tôi kệ mẹ.",
+   "hinh": "Hiếu nhún vai, búng đồng xu.",
+   "dien": "Shrug, casual 'Tôi kệ mẹ'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 38,
+   "ch": 5,
+   "who": "toi",
+   "t": "Tuần nào cũng thế: mười một giờ bốn mươi, Phạm Văn Dũng, mười nghìn, nội dung để trống. Khách quen nhất của tôi là một người đéo có tên.",
+   "hien": "Tuần nào cũng thế: mười một giờ bốn mươi, Phạm Văn Dũng, mười nghìn, nội dung để trống. Khách quen nhất của tôi là một người đéo có tên.",
+   "hinh": "Lịch thứ bảy lật nhanh, mỗi trang một dòng +10.000.",
+   "dien": "Mysterious, slow on 'một người đéo có tên'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 39,
+   "ch": 5,
+   "who": "toi",
+   "t": "Khách mua cả caption. Một lần tôi viết: Tự thưởng cho mình chút, ăn nhẹ thôi. Khách nhắn:",
+   "hien": "Khách mua cả caption. Một lần tôi viết: \"Tự thưởng cho mình chút, ăn nhẹ thôi.\" Khách nhắn:",
+   "hinh": "Hiếu gõ caption trên điện thoại.",
+   "dien": "Light setup for the next line. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 40,
+   "ch": 5,
+   "who": "khach",
+   "t": "Bỏ chữ tự thưởng đi em. Người giàu thật không phải tự thưởng.",
+   "hien": "\"Bỏ chữ tự thưởng đi em. Người giàu thật không phải tự thưởng.\"",
+   "hinh": "Tin nhắn hiện ra. Hiếu há mồm như được khai sáng, có tia sáng sau lưng.",
+   "dien": "A quiet, calm young man's voice reading a late-night text message, low and soft, wise."
+  },
+  {
+   "f": 41,
+   "ch": 5,
+   "who": "toi",
+   "t": "Hay vãi chưởng. Từ đấy tôi bán câu đấy cho tất cả các bảnh khác: Ăn nhẹ thôi.",
+   "hien": "Hay vãi chưởng. Từ đấy tôi bán câu đấy cho tất cả các bảnh khác: \"Ăn nhẹ thôi.\"",
+   "hinh": "Máy in in ra hàng chục tờ \"Ăn nhẹ thôi.\", Hiếu dán khắp các bài.",
+   "dien": "Impressed, then hustler energy. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 42,
+   "ch": 5,
+   "who": "toi",
+   "t": "Dạo đấy bác Thoa thôi khoe bằng mồm. Sáng chủ nhật nào bác cũng có ảnh: anh Tuấn ăn ô ma ca sê. Tuần nào cũng ăn, đều như người ta ăn phở.",
+   "hien": "Dạo đấy bác Thoa thôi khoe bằng mồm. Sáng chủ nhật nào bác cũng có ảnh: anh Tuấn ăn ô ma ca sê. Tuần nào cũng ăn, đều như người ta ăn phở.",
+   "hinh": "Bác Thoa đăng ảnh, mặt tự hào.",
+   "dien": "Sarcastic about the aunt's weekly bragging. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 43,
+   "ch": 5,
+   "who": "me",
+   "t": "Ảnh nét như ảnh quảng cáo. Cá sống bày lên cái thớt, miếng nào cũng bằng đầu ngón tay. Ao nhà mình cá đầy, có ai ăn sống đâu!",
+   "hien": "\"Ảnh nét như ảnh quảng cáo. Cá sống bày lên cái thớt, miếng nào cũng bằng đầu ngón tay. Ao nhà mình cá đầy, có ai ăn sống đâu!\"",
+   "hinh": "Mẹ cầm điện thoại cạnh ao cá, chỉ xuống ao. Một con cá trắm ngoi lên nhìn.",
+   "dien": "A Northern Vietnamese countryside mother, scandalized and funny, criticizing raw fish, loud at the end."
+  },
+  {
+   "f": 44,
+   "ch": 5,
+   "who": "toi",
+   "t": "Mẹ chê omakase bằng đúng cái giọng người ta chê hàng xóm mua ô tô.",
+   "hien": "Mẹ chê omakase bằng đúng cái giọng người ta chê hàng xóm mua ô tô.",
+   "hinh": "Mẹ đứng cổng liếc sang nhà bên có ô tô mới, môi bĩu.",
+   "dien": "Narrator amused, sly comparison. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 45,
+   "ch": 5,
+   "who": "toi",
+   "t": "Trên ảnh, khách nào của tôi cũng lương năm mươi triệu. Trong sao kê, khách nào cũng mười nghìn.",
+   "hien": "Trên ảnh, khách nào của tôi cũng lương năm mươi triệu. Trong sao kê, khách nào cũng mười nghìn.",
+   "hinh": "Màn hình chia đôi: bên trái người mặc vest ăn omakase, bên phải dòng \"+10.000\".",
+   "dien": "Sharp contrast, flat delivery on 'mười nghìn'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 46,
+   "ch": 6,
+   "who": "toi",
+   "t": "Cuối tháng tám, cậu Hưng vào trả lời ảnh anh Tuấn. Mẹ đọc lại cho tôi nghe, đọc hẳn hai lần cho thấm:",
+   "hien": "Cuối tháng tám, cậu Hưng vào trả lời ảnh anh Tuấn. Mẹ đọc lại cho tôi nghe, đọc hẳn hai lần cho thấm:",
+   "hinh": "Cậu Hưng đang nhậu, gõ điện thoại.",
+   "dien": "Setting up a dramatic family moment, slightly ominous. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 47,
+   "ch": 6,
+   "who": "hung",
+   "t": "Thằng Hiếu đâu, có được như anh không?",
+   "hien": "\"Thằng Hiếu đâu, có được như anh không?\"",
+   "hinh": "Tin nhắn hiện ra. Hiếu bị một mũi tên cắm vào ngực.",
+   "dien": "A tipsy middle-aged Northern Vietnamese uncle at a drinking party, loud teasing jab."
+  },
+  {
+   "f": 48,
+   "ch": 6,
+   "who": "me",
+   "t": "Mày có cái ảnh nào ăn uống ra hồn không? Gửi mẹ một cái. Mẹ đăng cho bác mày bớt nói.",
+   "hien": "\"Mày có cái ảnh nào ăn uống ra hồn không? Gửi mẹ một cái. Mẹ đăng cho bác mày bớt nói.\"",
+   "hinh": "Mẹ xắn tay áo như sắp ra trận.",
+   "dien": "A Northern Vietnamese mother, fired up, determined to defend her son, conspiratorial."
+  },
+  {
+   "f": 49,
+   "ch": 6,
+   "who": "toi",
+   "t": "Năm năm nay, lần đầu tiên mẹ muốn khoe tôi. Mà tôi đéo có gì để khoe, ngoài hàng trong shop.",
+   "hien": "Năm năm nay, lần đầu tiên mẹ muốn khoe tôi. Mà tôi đéo có gì để khoe, ngoài hàng trong shop.",
+   "hinh": "Hiếu nhìn bát cơm ruốc rồi nhìn đĩa sushi trên thớt.",
+   "dien": "Touched, then embarrassed, low. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 50,
+   "ch": 6,
+   "who": "toi",
+   "t": "Tối thứ bảy đấy, tôi gửi mẹ một tấm vừa chụp: tay tôi, đôi đũa gỗ, chữ Nhẫn. Khách víp, miễn phí.",
+   "hien": "Tối thứ bảy đấy, tôi gửi mẹ một tấm vừa chụp: tay tôi, đôi đũa gỗ, chữ Nhẫn. Khách vip, miễn phí.",
+   "hinh": "Ảnh bay từ điện thoại Hiếu về quê.",
+   "dien": "Proud and generous, joking 'Khách vip, miễn phí'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 51,
+   "ch": 6,
+   "who": "toi",
+   "t": "Mẹ đăng: Con tôi cũng ăn. Rồi nhắn riêng: Cả họ gửi hoa. Bác mày không thèm mở.",
+   "hien": "Mẹ đăng: \"Con tôi cũng ăn.\" Rồi nhắn riêng: \"Cả họ gửi hoa. Bác mày không thèm mở.\"",
+   "hinh": "Nhóm Zalo nổ hoa. Bác Thoa quay mặt đi.",
+   "dien": "Reading mom's triumphant message, smiling. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 52,
+   "ch": 6,
+   "who": "toi",
+   "t": "Đêm đấy mẹ phóng to ảnh tôi ra ngắm mãi. Con trai mình ăn sang, từng miếng cá, từng ngón tay.",
+   "hien": "Đêm đấy mẹ phóng to ảnh tôi ra ngắm mãi. Con trai mình ăn sang, từng miếng cá, từng ngón tay.",
+   "hinh": "Mẹ ngồi dưới đèn ngủ, hai ngón tay kéo phóng to ảnh, mỉm cười.",
+   "dien": "Tender, slow, emotional. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 53,
+   "ch": 6,
+   "who": "toi",
+   "t": "Mười một giờ bốn mươi, khách đêm vẫn mua: một tấm cùng bữa đấy, góc khác.",
+   "hien": "Mười một giờ bốn mươi, khách đêm vẫn mua: một tấm cùng bữa đấy, góc khác.",
+   "hinh": "+10.000 lúc 23:40.",
+   "dien": "Quiet, ominous beat. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 54,
+   "ch": 7,
+   "who": "toi",
+   "t": "Sáu giờ sáng chủ nhật, bác Thoa đăng: anh Tuấn ăn omakase. Ăn nhẹ thôi.",
+   "hien": "Sáu giờ sáng chủ nhật, bác Thoa đăng: anh Tuấn ăn omakase. \"Ăn nhẹ thôi.\"",
+   "hinh": "Bác Thoa đăng ảnh, gà gáy.",
+   "dien": "Tension rising, flat on 'Ăn nhẹ thôi'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 55,
+   "ch": 7,
+   "who": "toi",
+   "t": "Cả họ gửi hoa cho cả hai bữa. Ở nhóm họ, đéo ai xem ảnh. Người ta xem ai đăng.",
+   "hien": "Cả họ gửi hoa cho cả hai bữa. Ở nhóm họ, đéo ai xem ảnh. Người ta xem ai đăng.",
+   "hinh": "Hai ảnh trong nhóm, cả họ bấm hoa không nhìn.",
+   "dien": "Wry social observation. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 56,
+   "ch": 7,
+   "who": "toi",
+   "t": "Trưa đấy, mẹ gửi tôi một ảnh chụp màn hình, cái nhẫn được khoanh bằng ngón tay, méo như quả trứng. Rồi mẹ gọi. Gọi video. Tôi bấm nghe trước khi não kịp chạy.",
+   "hien": "Trưa đấy, mẹ gửi tôi một ảnh chụp màn hình, cái nhẫn được khoanh bằng ngón tay, méo như quả trứng. Rồi mẹ gọi. Gọi video. Tôi bấm nghe trước khi não kịp chạy.",
+   "hinh": "Ảnh chụp màn hình có vòng khoanh méo quanh nhẫn. Điện thoại rung, ngón tay Hiếu bấm nhầm nút xanh.",
+   "dien": "Panicked, faster and faster, ends breathless. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 57,
+   "ch": 7,
+   "who": "me",
+   "t": "Tay ai đây? Cái nhẫn mẹ mua cho mày, sao lại nằm trên tay anh Tuấn? Mày cho nó mượn à?",
+   "hien": "\"Tay ai đây? Cái nhẫn mẹ mua cho mày, sao lại nằm trên tay anh Tuấn? Mày cho nó mượn à?\"",
+   "hinh": "Mặt mẹ to kín màn hình, nheo mắt.",
+   "dien": "A Northern Vietnamese mother on a video call, suspicious and hurt, sharp questions, not shouting."
+  },
+  {
+   "f": 58,
+   "ch": 7,
+   "who": "toi",
+   "t": "Gần ba tháng mẹ đéo bao giờ phóng to ảnh anh Tuấn, nhìn đã đủ đau mắt. Nhưng đêm qua mẹ vừa ngắm từng miếng cá của tôi, sáng nay mấy miếng cá đấy lại nằm trước mặt anh Tuấn.",
+   "hien": "Gần ba tháng mẹ đéo bao giờ phóng to ảnh anh Tuấn, nhìn đã đủ đau mắt. Nhưng đêm qua mẹ vừa ngắm từng miếng cá của tôi, sáng nay mấy miếng cá đấy lại nằm trước mặt anh Tuấn.",
+   "hinh": "Hai ảnh đặt cạnh nhau, các miếng cá xếp khớp từng miếng.",
+   "dien": "Painful realization, slower. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 59,
+   "ch": 7,
+   "who": "toi",
+   "t": "Cục Phòng chống Phông bạt chéc va bằng phần mềm. Mẹ tôi chéc va bằng hai ngón tay.",
+   "hien": "Cục Phòng chống Phông bạt check var bằng phần mềm. Mẹ tôi check var bằng hai ngón tay.",
+   "hinh": "Hai ngón tay mẹ kéo phóng to, cái nhẫn to dần.",
+   "dien": "Bitter-funny comparison. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 60,
+   "ch": 7,
+   "who": "toi",
+   "t": "Tôi đéo nói gì. Nhưng tai tôi đỏ. Qua màn hình mẹ vẫn thấy.",
+   "hien": "Tôi đéo nói gì. Nhưng tai tôi đỏ. Qua màn hình mẹ vẫn thấy.",
+   "hinh": "Cận tai Hiếu đỏ rực như đèn đỏ ngã tư.",
+   "dien": "Quiet, ashamed. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 61,
+   "ch": 7,
+   "who": "me",
+   "t": "Thế bữa nào là bữa của mày?",
+   "hien": "\"Thế bữa nào là bữa của mày?\"",
+   "hinh": "Mặt mẹ im lặng.",
+   "dien": "A Northern Vietnamese mother, quiet and heavy, one simple question after a long silence."
+  },
+  {
+   "f": 62,
+   "ch": 7,
+   "who": "toi",
+   "t": "Không bữa nào ạ.",
+   "hien": "\"Không bữa nào ạ.\"",
+   "hinh": "Hiếu cúi gằm.",
+   "dien": "A young man, ashamed, very small voice. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 63,
+   "ch": 7,
+   "who": "toi",
+   "t": "Tôi khai hết. Tám triệu. Năm triệu tiền phòng. Cái thớt. Cái ghế mát xa. Ba mươi góc.",
+   "hien": "Tôi khai hết. Tám triệu. Năm triệu tiền phòng. Cái thớt. Cái ghế mát xa. Ba mươi góc.",
+   "hinh": "Các đồ vật bay quanh Hiếu như bằng chứng trước toà.",
+   "dien": "Confession, listing quickly. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 64,
+   "ch": 7,
+   "who": "toi",
+   "t": "Mẹ im rất lâu. Rồi hỏi đúng một câu:",
+   "hien": "Mẹ im rất lâu. Rồi hỏi đúng một câu:",
+   "hinh": "Đồng hồ cuộc gọi chạy, không ai nói.",
+   "dien": "Very quiet, slow. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 65,
+   "ch": 7,
+   "who": "me",
+   "t": "Thế anh Tuấn…?",
+   "hien": "\"Thế anh Tuấn…?\"",
+   "hinh": "Mặt mẹ đổi sắc.",
+   "dien": "A Northern Vietnamese mother, quietly realizing something about her nephew, voice trembling."
+  },
+  {
+   "f": 66,
+   "ch": 7,
+   "who": "toi",
+   "t": "Mười một giờ bốn mươi đêm đấy, chủ nhật. Khách đêm chưa nhắn tối chủ nhật bao giờ. Khách nhắn:",
+   "hien": "Mười một giờ bốn mươi đêm đấy, chủ nhật. Khách đêm chưa nhắn tối chủ nhật bao giờ. Khách nhắn:",
+   "hinh": "Điện thoại sáng trong đêm.",
+   "dien": "Suspense, whisper-like but voiced. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 67,
+   "ch": 7,
+   "who": "khach",
+   "t": "Em cũng gửi mẹ à?",
+   "hien": "\"Em cũng gửi mẹ à?\"",
+   "hinh": "Tin nhắn. Hiếu đơ người.",
+   "dien": "A quiet young man's voice reading a short text message, gentle, a little sad."
+  },
+  {
+   "f": 68,
+   "ch": 8,
+   "who": "toi",
+   "t": "Tôi hỏi anh đang ở đâu. Anh gửi định vị. Nửa đêm, tôi phi ra quán trà đá Linh Lang, ngay trước cửa một nhà hàng omakase thật. Anh mặc áo xe ôm.",
+   "hien": "Tôi hỏi anh đang ở đâu. Anh gửi định vị. Nửa đêm, tôi phi ra quán trà đá Linh Lang, ngay trước cửa một nhà hàng omakase thật. Anh mặc áo xe ôm.",
+   "hinh": "Hiếu phóng xe đạp điện qua phố đêm. Quán trà đá, anh Tuấn mặc áo xe ôm xanh.",
+   "dien": "Urgent, then a beat of surprise on 'Anh mặc áo xe ôm'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 69,
+   "ch": 8,
+   "who": "tuan",
+   "t": "Tháng ba, ngân hàng thay cả tổ anh bằng phần mềm. Cái phần mềm đấy cả tổ anh dạy nó ba tháng. Dạy xong nó đuổi bọn anh.",
+   "hien": "\"Tháng ba, ngân hàng thay cả tổ anh bằng phần mềm. Cái phần mềm đấy cả tổ anh dạy nó ba tháng. Dạy xong nó đuổi bọn anh.\"",
+   "hinh": "Hồi tưởng phòng ngân hàng: robot nhận thẻ tên từ tay Tuấn, vẫy tay chào.",
+   "dien": "A tired 28-year-old Northern Vietnamese man, bitter-funny about being replaced by software."
+  },
+  {
+   "f": 70,
+   "ch": 8,
+   "who": "toi",
+   "t": "Năm ngoái người dưới một năm kinh nghiệm chiếm bốn mươi lăm phần trăm số bị cắt. Anh làm năm năm còn bị thay. Thằng chưa được một năm như tôi thì chắc xếp hàng sẵn rồi.",
+   "hien": "Năm ngoái người dưới một năm kinh nghiệm chiếm bốn mươi lăm phần trăm số bị cắt. Anh làm năm năm còn bị thay. Thằng chưa được một năm như tôi thì chắc xếp hàng sẵn rồi.",
+   "hinh": "Hàng người cầm thùng giấy ra cửa, Hiếu đứng cuối hàng.",
+   "dien": "Bitter statistics, dark humor at the end. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 71,
+   "ch": 8,
+   "who": "toi",
+   "t": "Còn năm mươi triệu? Tết năm anh mới đi làm, lương thử việc năm triệu. Cậu Hưng hỏi lương giữa mâm rượu. Anh định nói năm triệu, liếc sang mẹ, anh thêm chữ mươi.",
+   "hien": "Còn năm mươi triệu? Tết năm anh mới đi làm, lương thử việc năm triệu. Cậu Hưng hỏi lương giữa mâm rượu. Anh định nói \"năm triệu\", liếc sang mẹ, anh thêm chữ \"mươi\".",
+   "hinh": "Mâm rượu Tết: Tuấn mở mồm, liếc bác Thoa, rồi chữ \"MƯƠI\" chui ra khỏi mồm.",
+   "dien": "Storytelling, comic timing on 'anh thêm chữ mươi'. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 72,
+   "ch": 8,
+   "who": "toi",
+   "t": "Một chữ mươi, bác Thoa khoe năm năm. Một chữ mươi, tôi bị đem ra so suốt thời sinh viên. Đờ mờ, chữ đắt nhất họ nhà tôi.",
+   "hien": "Một chữ \"mươi\", bác Thoa khoe năm năm. Một chữ \"mươi\", tôi bị đem ra so suốt thời sinh viên. Đm, chữ đắt nhất họ nhà tôi.",
+   "hinh": "Chữ \"MƯƠI\" đội vương miện ngồi trên ngai.",
+   "dien": "Amazed and cursing affectionately. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 73,
+   "ch": 8,
+   "who": "tuan",
+   "t": "Cả chợ ảnh có mỗi shop em là tay đàn ông. Đêm đầu quét mã, app hiện tên người nhận: Nguyễn Trung Hiếu. Anh tắt luôn. Từ đấy anh nhờ thằng Dũng chạy cùng tổ chuyển hộ.",
+   "hien": "\"Cả chợ ảnh có mỗi shop em là tay đàn ông. Đêm đầu quét mã, app hiện tên người nhận: Nguyễn Trung Hiếu. Anh tắt luôn. Từ đấy anh nhờ thằng Dũng chạy cùng tổ chuyển hộ.\"",
+   "hinh": "Màn hình xác nhận chuyển khoản hiện tên, ngón tay Tuấn bấm Huỷ. Thằng Dũng đội mũ xe ôm giơ ngón cái.",
+   "dien": "A tired 28-year-old Northern Vietnamese man confessing calmly, a little embarrassed."
+  },
+  {
+   "f": 74,
+   "ch": 8,
+   "who": "tuan",
+   "t": "Anh biết cái nhẫn chứ. Anh cược dì không bao giờ phóng to ảnh anh. Thua.",
+   "hien": "\"Anh biết cái nhẫn chứ. Anh cược dì không bao giờ phóng to ảnh anh. Thua.\"",
+   "hinh": "Tuấn gãi đầu cười méo.",
+   "dien": "The same man, sheepish laugh."
+  },
+  {
+   "f": 75,
+   "ch": 8,
+   "who": "tuan",
+   "t": "Mẹ anh trưa nào cũng hỏi ăn gì chưa. Anh gửi ảnh, biết mẹ sẽ đăng. Mẹ anh có mỗi anh để khoe.",
+   "hien": "\"Mẹ anh trưa nào cũng hỏi ăn gì chưa. Anh gửi ảnh, biết mẹ sẽ đăng. Mẹ anh có mỗi anh để khoe.\"",
+   "hinh": "Tuấn nhìn ly trà đá, đá tan.",
+   "dien": "The same man, soft and sincere, slightly choked."
+  },
+  {
+   "f": 76,
+   "ch": 8,
+   "who": "toi",
+   "t": "Mười hai thứ bảy, mười hai tấm. Anh trả tôi một trăm hai mươi nghìn để được tiếp tục làm anh Tuấn.",
+   "hien": "Mười hai thứ bảy, mười hai tấm. Anh trả tôi một trăm hai mươi nghìn để được tiếp tục làm anh Tuấn.",
+   "hinh": "Mười hai tờ 10.000 xếp thành chữ \"TUẤN\".",
+   "dien": "Narrator, moved but wry. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 77,
+   "ch": 8,
+   "who": "toi",
+   "t": "Đêm anh mua. Sáng bác đăng. Trưa mẹ tôi gọi. Một dây chuyền khép kín, chạy bằng hai thằng nghèo nhất họ.",
+   "hien": "Đêm anh mua. Sáng bác đăng. Trưa mẹ tôi gọi. Một dây chuyền khép kín, chạy bằng hai thằng nghèo nhất họ.",
+   "hinh": "Băng chuyền nhà máy: ảnh chạy từ Hiếu sang Tuấn sang bác Thoa sang mẹ.",
+   "dien": "Ironic factory announcer tone, bitter. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 78,
+   "ch": 8,
+   "who": "toi",
+   "t": "Đang nói thì có cuốc. Một chị bước ra từ nhà hàng omakase, vừa leo lên xe anh Tuấn vừa gọi cho bạn: Tao vừa tự thưởng cho mình chút, ngon vãi.",
+   "hien": "Đang nói thì có cuốc. Một chị bước ra từ nhà hàng omakase, vừa leo lên xe anh Tuấn vừa gọi cho bạn: \"Tao vừa tự thưởng cho mình chút, ngon vãi.\"",
+   "hinh": "Chị khách váy đẹp bước ra, leo lên xe, điện thoại áp tai.",
+   "dien": "Light comic interruption, imitating a posh girl. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 79,
+   "ch": 8,
+   "who": "tuan",
+   "t": "Đấy. Người giàu thật cũng tự thưởng. Anh sai mẹ nó từ đầu.",
+   "hien": "\"Đấy. Người giàu thật cũng tự thưởng. Anh sai mẹ nó từ đầu.\"",
+   "hinh": "Tuấn quay lại nháy mắt, nổ máy.",
+   "dien": "A tired young man, amused at himself, self-mocking."
+  },
+  {
+   "f": 80,
+   "ch": 8,
+   "who": "toi",
+   "t": "Anh phóng đi. Tôi ngồi lại một mình, trả tiền trà đá cho cả hai: năm nghìn một cốc. Bữa đầu tiên trong đời tôi mời được anh Tuấn.",
+   "hien": "Anh phóng đi. Tôi ngồi lại một mình, trả tiền trà đá cho cả hai: năm nghìn một cốc. Bữa đầu tiên trong đời tôi mời được anh Tuấn.",
+   "hinh": "Hiếu một mình bên hai cốc trà đá, đặt tờ 10.000 lên bàn.",
+   "dien": "Quiet, bittersweet. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 81,
+   "ch": 8,
+   "who": "toi",
+   "t": "Con nhà người ta, hoá ra đúng nghĩa đen: là con một nhà khác. Cũng nghèo. Cũng sợ mẹ buồn.",
+   "hien": "Con nhà người ta, hoá ra đúng nghĩa đen: là con một nhà khác. Cũng nghèo. Cũng sợ mẹ buồn.",
+   "hinh": "Hai cái bóng in trên tường: một bóng lớn đội vương miện, mờ dần thành bóng thằng mặc áo xe ôm.",
+   "dien": "Reflective, warm. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 82,
+   "ch": 8,
+   "who": "toi",
+   "t": "Về phòng, tôi mở sổ khách, gạch hai chữ sống ảo.",
+   "hien": "Về phòng, tôi mở sổ khách, gạch hai chữ \"sống ảo\".",
+   "hinh": "Sổ khách, bút đỏ gạch.",
+   "dien": "Quiet resolve. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 83,
+   "ch": 9,
+   "who": "toi",
+   "t": "Đêm đấy tôi đéo ngủ được, nên làm cái việc thằng mất ngủ nào cũng làm: đăng Threads. Lần này đăng thật.",
+   "hien": "Đêm đấy tôi đéo ngủ được, nên làm cái việc thằng mất ngủ nào cũng làm: đăng Threads. Lần này đăng thật.",
+   "hinh": "Hiếu nằm, mắt mở trừng nhìn trần, rồi bật dậy.",
+   "dien": "Restless, then decisive. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 84,
+   "ch": 9,
+   "who": "toi",
+   "t": "Một acc đéo có ảnh đại diện. Một tấm ảnh: bát cơm trắng, lọ ruốc, băng dính chữ Ruốc. Ăn dần. Mấy dòng: Lương tám triệu, trọ năm triệu, một trăm nghìn một ngày. Gần ba tháng tôi bán ba trăm sáu mươi bữa omakase, mười nghìn một bữa. Đây là bữa của tôi.",
+   "hien": "Một acc đéo có ảnh đại diện. Một tấm ảnh: bát cơm trắng, lọ ruốc, băng dính chữ \"Ruốc. Ăn dần.\" Mấy dòng: \"Lương tám triệu, trọ năm triệu, một trăm nghìn một ngày. Gần ba tháng tôi bán ba trăm sáu mươi bữa omakase, mười nghìn một bữa. Đây là bữa của tôi.\"",
+   "hinh": "Hiếu chụp bát cơm và lọ ruốc dưới đèn bàn. Bài đăng hiện lên.",
+   "dien": "Sincere, plain, reading his own post slowly. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 85,
+   "ch": 9,
+   "who": "toi",
+   "t": "Tôi chưa đánh răng xong, bài đã có người vào.",
+   "hien": "Tôi chưa đánh răng xong, bài đã có người vào.",
+   "hinh": "Hiếu đánh răng, điện thoại trên bồn rung liên hồi.",
+   "dien": "Comic surprise. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 86,
+   "ch": 9,
+   "who": "toi",
+   "t": "Tám triệu mà cũng đăng? Mới ra trường mình đã ba mươi rồi. Một trăm nghìn một ngày ở Cầu Giấy? Chào mừng bạn đến với Threads City.",
+   "hien": "\"Tám triệu mà cũng đăng?\" \"Mới ra trường mình đã ba mươi rồi.\" \"Một trăm nghìn một ngày ở Cầu Giấy? Chào mừng bạn đến với Threads City.\"",
+   "hinh": "Các bình luận rơi xuống như mưa đá lên đầu Hiếu.",
+   "dien": "Rapid-fire mocking comments in different tones. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 87,
+   "ch": 9,
+   "who": "toi",
+   "t": "Lần đầu tiên trong đời tôi nói thật trên mạng, thì bị chéc va.",
+   "hien": "Lần đầu tiên trong đời tôi nói thật trên mạng, thì bị check var.",
+   "hinh": "Thám tử Threads cầm kính lúp soi bát cơm của Hiếu.",
+   "dien": "Bitter irony. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 88,
+   "ch": 9,
+   "who": "toi",
+   "t": "Báo viết rồi: bình luận tiêu cực là nhiên liệu. Ba tháng bán phông bạt, shop tôi chưa bài nào quá hai mươi tim. Một đêm nói thật, cả thành phố xúm vào chửi đẩy bài tôi lên top.",
+   "hien": "Báo viết rồi: bình luận tiêu cực là nhiên liệu. Ba tháng bán phông bạt, shop tôi chưa bài nào quá hai mươi tim. Một đêm nói thật, cả thành phố xúm vào chửi đẩy bài tôi lên top.",
+   "hinh": "Bài đăng thành tên lửa, bình luận chửi làm nhiên liệu đốt đuôi.",
+   "dien": "Sarcastic media analysis, punchline at the end. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 89,
+   "ch": 9,
+   "who": "toi",
+   "t": "Nhưng thứ làm tôi thức tới sáng nằm trong hộp thư. Toàn tài khoản không ảnh đại diện. Giống hệt tôi.",
+   "hien": "Nhưng thứ làm tôi thức tới sáng nằm trong hộp thư. Toàn tài khoản không ảnh đại diện. Giống hệt tôi.",
+   "hinh": "Hộp thư sáng lên, hàng loạt avatar xám.",
+   "dien": "Softer, moved. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 90,
+   "ch": 9,
+   "who": "toi",
+   "t": "Mình cũng thế. Đừng xoá bài nhé. Mình không dám bình luận, sếp mình có Threads. Mình không dám, mẹ mình có Zalo.",
+   "hien": "\"Mình cũng thế.\" \"Đừng xoá bài nhé.\" \"Mình không dám bình luận, sếp mình có Threads.\" \"Mình không dám, mẹ mình có Zalo.\"",
+   "hinh": "Mỗi tin nhắn là một ô cửa sổ sáng trong một khu nhà tối.",
+   "dien": "Gentle, several quiet strangers' messages, each a little different. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 91,
+   "ch": 9,
+   "who": "toi",
+   "t": "Tôi thử làm việc của Cục Thống kê: tính thu nhập bình quân dưới bài mình. Phần bình luận: đứa nào khai cũng từ ba mươi triệu. Hộp thư: đéo ai dám ghi số.",
+   "hien": "Tôi thử làm việc của Cục Thống kê: tính thu nhập bình quân dưới bài mình. Phần bình luận: đứa nào khai cũng từ ba mươi triệu. Hộp thư: đéo ai dám ghi số.",
+   "hinh": "Biểu đồ: cột \"bình luận\" cao vút, cột \"hộp thư\" là dấu hỏi.",
+   "dien": "Wry statistician, ends on a quiet punch. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 92,
+   "ch": 10,
+   "who": "toi",
+   "t": "Ba hôm sau, bài trôi về tới Zalo họ. Tin trên mạng thường về quê chậm một năm. Bài chửi nhau thì chỉ cần ba hôm.",
+   "hien": "Ba hôm sau, bài trôi về tới Zalo họ. Tin trên mạng thường về quê chậm một năm. Bài chửi nhau thì chỉ cần ba hôm.",
+   "hinh": "Bài đăng bay qua đồng lúa, đậu xuống nhóm Zalo.",
+   "dien": "Amused observation about the countryside. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 93,
+   "ch": 10,
+   "who": "diut",
+   "t": "Thương bọn trẻ bây giờ quá.",
+   "hien": "\"Thương bọn trẻ bây giờ quá.\"",
+   "hinh": "Dì Út chấm nước mắt.",
+   "dien": "A kind Northern Vietnamese aunt, teary and sympathetic."
+  },
+  {
+   "f": 94,
+   "ch": 10,
+   "who": "toi",
+   "t": "Cả họ thả mặt khóc thương thằng nào đấy trong bài. Đéo ai nhận ra nét chữ trên băng dính. Trừ hai người: người viết chữ đấy, và chị gái của người viết.",
+   "hien": "Cả họ thả mặt khóc thương thằng nào đấy trong bài. Đéo ai nhận ra nét chữ trên băng dính. Trừ hai người: người viết chữ đấy, và chị gái của người viết.",
+   "hinh": "Phóng to băng dính trong ảnh. Mẹ và bác Thoa, hai nơi, cùng khựng lại.",
+   "dien": "Building to a quiet reveal. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 95,
+   "ch": 10,
+   "who": "toi",
+   "t": "Mẹ không gọi. Bác Thoa cũng không. Câu Con tôi cũng ăn vẫn nằm nguyên trên nhóm. Không ai cải chính.",
+   "hien": "Mẹ không gọi. Bác Thoa cũng không. Câu \"Con tôi cũng ăn\" vẫn nằm nguyên trên nhóm. Không ai cải chính.",
+   "hinh": "Nhóm Zalo im lặng, chỉ có tiếng dế.",
+   "dien": "Quiet, still. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 96,
+   "ch": 10,
+   "who": "toi",
+   "t": "Thứ bảy, xe khách gửi lên một thùng. Hai lọ ruốc. Tháng này chắc em tôi ăn cơm với nước mắm.",
+   "hien": "Thứ bảy, xe khách gửi lên một thùng. Hai lọ ruốc. Tháng này chắc em tôi ăn cơm với nước mắm.",
+   "hinh": "Phụ xe đưa thùng. Mở ra: hai lọ ruốc. Cảnh xen: em gái ở quê ăn cơm nước mắm.",
+   "dien": "Warm, then a sly joke about his sister. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 97,
+   "ch": 10,
+   "who": "toi",
+   "t": "Lọ thứ nhất vẫn dán: Ruốc. Ăn dần.",
+   "hien": "Lọ thứ nhất vẫn dán: \"Ruốc. Ăn dần.\"",
+   "hinh": "Cận lọ thứ nhất.",
+   "dien": "Tender. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 98,
+   "ch": 10,
+   "who": "toi",
+   "t": "Lọ thứ hai cũng thế. Chỉ có điều dưới chữ Ăn dần, mẹ viết thêm một dòng, chữ nhỏ hơn: Đừng đăng.",
+   "hien": "Lọ thứ hai cũng thế. Chỉ có điều dưới chữ \"Ăn dần\", mẹ viết thêm một dòng, chữ nhỏ hơn: \"Đừng đăng.\"",
+   "hinh": "Cận lọ thứ hai, chữ \"Đừng đăng\" hiện ra từng nét.",
+   "dien": "Very tender, slow, emotional ending beat on 'Đừng đăng.' || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 99,
+   "ch": 11,
+   "who": "toi",
+   "t": "Chủ nhật giữa tháng chín, giỗ ông ngoại. Cậu Hưng rót rượu, hỏi lại câu năm năm trước, thêm đúng hai chữ:",
+   "hien": "Chủ nhật giữa tháng chín, giỗ ông ngoại. Cậu Hưng rót rượu, hỏi lại câu năm năm trước, thêm đúng hai chữ:",
+   "hinh": "Nhà quê ngày giỗ, cả họ ngồi chiếu, cậu Hưng nâng chén.",
+   "dien": "Warm family scene setup. || Sarcastic and smirking throughout, a short mocking chuckle near the punchline, keep the pace quick."
+  },
+  {
+   "f": 100,
+   "ch": 11,
+   "who": "hung",
+   "t": "Thế bây giờ lương hai đứa thật ra bao nhiêu?",
+   "hien": "\"Thế bây giờ lương hai đứa thật ra bao nhiêu?\"",
+   "hinh": "Cậu Hưng cười hềnh hệch.",
+   "dien": "A tipsy middle-aged Northern Vietnamese uncle, jovial and nosy."
+  },
+  {
+   "f": 101,
+   "ch": 11,
+   "who": "toi+tuan",
+   "t": "Cũng được ạ.",
+   "hien": "\"Cũng được ạ.\"",
+   "hinh": "Hai anh em đồng thanh, cùng nâng chén.",
+   "dien": "Two young men answering in unison, polite and evasive."
+  },
+  {
+   "f": 102,
+   "ch": 11,
+   "who": "toi",
+   "t": "Mẹ tôi gật. Bác Thoa gật. Rồi bác nhìn tay tôi hơi lâu. Hai bà nhìn nhau, gật thêm cái nữa.",
+   "hien": "Mẹ tôi gật. Bác Thoa gật. Rồi bác nhìn tay tôi hơi lâu. Hai bà nhìn nhau, gật thêm cái nữa.",
+   "hinh": "Cận ánh mắt bác Thoa nhìn cái nhẫn. Hai bà gật đầu.",
+   "dien": "Quiet and knowing. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 103,
+   "ch": 11,
+   "who": "toi",
+   "t": "Rồi hai bà cùng giơ điện thoại chụp mâm cỗ. Ngồi cạnh nhau, nên hai tấm gần như y hệt: cùng đĩa giò, cùng bàn tay đeo nhẫn gắp cho anh Tuấn miếng to nhất.",
+   "hien": "Rồi hai bà cùng giơ điện thoại chụp mâm cỗ. Ngồi cạnh nhau, nên hai tấm gần như y hệt: cùng đĩa giò, cùng bàn tay đeo nhẫn gắp cho anh Tuấn miếng to nhất.",
+   "hinh": "Hai điện thoại chụp mâm, bàn tay đeo nhẫn gắp miếng giò cho Tuấn.",
+   "dien": "Warm, detailed. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 104,
+   "ch": 11,
+   "who": "toi",
+   "t": "Hôm đấy nhóm họ có hai tấm ảnh trông y hệt nhau. Đéo ai chéc va. Cả họ đang ngồi ăn thật.",
+   "hien": "Hôm đấy nhóm họ có hai tấm ảnh trông y hệt nhau. Đéo ai check var. Cả họ đang ngồi ăn thật.",
+   "hinh": "Nhóm Zalo có hai ảnh mâm cỗ. Cả họ đang ăn, không ai nhìn điện thoại.",
+   "dien": "Gentle humor, content. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 105,
+   "ch": 11,
+   "who": "toi",
+   "t": "Mỗi tấm được đúng một bông hoa. Của bà kia gửi.",
+   "hien": "Mỗi tấm được đúng một bông hoa. Của bà kia gửi.",
+   "hinh": "Hai bông hoa bay chéo nhau.",
+   "dien": "Tender, smiling. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 106,
+   "ch": 11,
+   "who": "toi",
+   "t": "Về Hà Nội, shop tôi vẫn mở. Nửa cái mồm vẫn phải ăn. Chỉ khác là trước khi chụp, tôi tháo nhẫn ra.",
+   "hien": "Về Hà Nội, shop tôi vẫn mở. Nửa cái mồm vẫn phải ăn. Chỉ khác là trước khi chụp, tôi tháo nhẫn ra.",
+   "hinh": "Hiếu tháo nhẫn đặt cạnh lọ ruốc, rồi chụp thớt.",
+   "dien": "Matter-of-fact, mature. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 107,
+   "ch": 11,
+   "who": "toi",
+   "t": "Bài trên Threads, tôi không xoá. Người lạ dặn thế.",
+   "hien": "Bài trên Threads, tôi không xoá. Người lạ dặn thế.",
+   "hinh": "Bài đăng vẫn sáng trên màn hình.",
+   "dien": "Calm. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 108,
+   "ch": 11,
+   "who": "toi",
+   "t": "Ảnh mâm giỗ, tôi đéo đăng. Mẹ dặn thế.",
+   "hien": "Ảnh mâm giỗ, tôi đéo đăng. Mẹ dặn thế.",
+   "hinh": "Ảnh mâm giỗ trong thư viện ảnh, ngón tay không bấm đăng.",
+   "dien": "Calm, a little smile. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  },
+  {
+   "f": 109,
+   "ch": 11,
+   "who": "toi",
+   "t": "Nên Threads City vẫn giàu như cũ.",
+   "hien": "Nên Threads City vẫn giàu như cũ.",
+   "hinh": "Threads City lần cuối: toà nhà neon \"50 TRIỆU\" lấp lánh. Camera lùi ra, thành phố nằm gọn trong một chiếc điện thoại đặt cạnh hai lọ ruốc.",
+   "dien": "Final line, wry and bittersweet, slow. || Keep it sincere and quiet, at most a faint wry smile in the voice, no laughing."
+  }
+ ]
+}

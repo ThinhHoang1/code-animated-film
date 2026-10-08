@@ -1,0 +1,16 @@
+# Generated or large media — the finished film lives in GitHub Releases
+renders/
+giong/
+giong-cu/
+assets/voice/
+assets/bgm/
+assets/bgm-src/
+assets/am-tmp/
+assets/sfx/
+*.mp4
+*.wav
+*.log
+.env
+.DS_Store
+node_modules/
+__pycache__/

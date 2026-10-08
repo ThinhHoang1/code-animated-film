@@ -1,0 +1,717 @@
+{
+ "9": {
+  "path": "giong/009-t3.wav",
+  "duration_s": 11.4,
+  "score": 1.0,
+  "diffs": []
+ },
+ "10": {
+  "path": "giong/010-t3.wav",
+  "duration_s": 10.6,
+  "score": 0.833,
+  "diffs": [
+   "hai không hai ba→2023",
+   "nghỉ→nghĩ",
+   "xi vi→cv"
+  ]
+ },
+ "11": {
+  "path": "giong/011-t1.wav",
+  "duration_s": 14.6,
+  "score": 1.0,
+  "diffs": []
+ },
+ "12": {
+  "path": "giong/012-t1.wav",
+  "duration_s": 7.44,
+  "score": 1.0,
+  "diffs": []
+ },
+ "13": {
+  "path": "giong/013-t2.wav",
+  "duration_s": 15.64,
+  "score": 0.974,
+  "diffs": [
+   "threads→threat"
+  ]
+ },
+ "14": {
+  "path": "giong/014-t3.wav",
+  "duration_s": 6.4,
+  "score": 1.0,
+  "diffs": []
+ },
+ "15": {
+  "path": "giong/015-t2.wav",
+  "duration_s": 4.92,
+  "score": 1.0,
+  "diffs": []
+ },
+ "16": {
+  "path": "giong/016-t2.wav",
+  "duration_s": 11.44,
+  "score": 1.0,
+  "diffs": []
+ },
+ "17": {
+  "path": "giong/017-t2.wav",
+  "duration_s": 13.8,
+  "score": 0.956,
+  "diffs": [
+   "phẩy→",
+   "mát→bắt"
+  ]
+ },
+ "18": {
+  "path": "giong/018-t2.wav",
+  "duration_s": 8.0,
+  "score": 0.958,
+  "diffs": [
+   "threads→thread"
+  ]
+ },
+ "19": {
+  "path": "giong/019-t3.wav",
+  "duration_s": 6.36,
+  "score": 0.938,
+  "diffs": [
+   "app→áp"
+  ]
+ },
+ "20": {
+  "path": "giong/020-t1.wav",
+  "duration_s": 7.04,
+  "score": 0.905,
+  "diffs": [
+   "threads→threat",
+   "threads→threat"
+  ]
+ },
+ "21": {
+  "path": "giong/021-t1.wav",
+  "duration_s": 4.12,
+  "score": 1.0,
+  "diffs": []
+ },
+ "22": {
+  "path": "giong/022-t1.wav",
+  "duration_s": 4.12,
+  "score": 0.909,
+  "diffs": [
+   "ăn→ấn"
+  ]
+ },
+ "23": {
+  "path": "giong/023-t1.wav",
+  "duration_s": 11.32,
+  "score": 0.871,
+  "diffs": [
+   "zalo→da lô",
+   "tai→tay",
+   "mẹ→mày"
+  ]
+ },
+ "24": {
+  "path": "giong/024-t3.wav",
+  "duration_s": 12.52,
+  "score": 0.919,
+  "diffs": [
+   "bạt→bạc",
+   "nghìn→không",
+   "nghìn→không"
+  ]
+ },
+ "25": {
+  "path": "giong/025-t1.wav",
+  "duration_s": 11.0,
+  "score": 1.0,
+  "diffs": []
+ },
+ "26": {
+  "path": "giong/026-t2.wav",
+  "duration_s": 8.04,
+  "score": 0.931,
+  "diffs": [
+   "mát xa→massage"
+  ]
+ },
+ "27": {
+  "path": "giong/027-t3.wav",
+  "duration_s": 8.0,
+  "score": 0.926,
+  "diffs": [
+   "nghề→người",
+   "chéc→chách"
+  ]
+ },
+ "28": {
+  "path": "giong/028-t2.wav",
+  "duration_s": 9.52,
+  "score": 0.933,
+  "diffs": [
+   "hai→",
+   "móng→mõng"
+  ]
+ },
+ "29": {
+  "path": "giong/029-t1.wav",
+  "duration_s": 10.08,
+  "score": 1.0,
+  "diffs": []
+ },
+ "30": {
+  "path": "giong/030-t2.wav",
+  "duration_s": 2.64,
+  "score": 1.0,
+  "diffs": []
+ },
+ "31": {
+  "path": "giong/031-t3.wav",
+  "duration_s": 8.28,
+  "score": 1.0,
+  "diffs": []
+ },
+ "32": {
+  "path": "giong/032-t1.wav",
+  "duration_s": 6.64,
+  "score": 0.944,
+  "diffs": [
+   "góc→gốc"
+  ]
+ },
+ "33": {
+  "path": "giong/033-t2.wav",
+  "duration_s": 10.24,
+  "score": 1.0,
+  "diffs": []
+ },
+ "34": {
+  "path": "giong/034-t1.wav",
+  "duration_s": 10.28,
+  "score": 0.938,
+  "diffs": [
+   "mẹ nó→"
+  ]
+ },
+ "35": {
+  "path": "giong/035-t3.wav",
+  "duration_s": 11.92,
+  "score": 0.943,
+  "diffs": [
+   "dờ→h",
+   "nghìn→không"
+  ]
+ },
+ "36": {
+  "path": "giong/036-t3.wav",
+  "duration_s": 4.92,
+  "score": 1.0,
+  "diffs": []
+ },
+ "37": {
+  "path": "giong/037-t3.wav",
+  "duration_s": 5.0,
+  "score": 1.0,
+  "diffs": []
+ },
+ "38": {
+  "path": "giong/038-t3.wav",
+  "duration_s": 13.12,
+  "score": 0.931,
+  "diffs": [
+   "dờ→h",
+   "nghìn→không"
+  ]
+ },
+ "39": {
+  "path": "giong/039-t3.wav",
+  "duration_s": 6.8,
+  "score": 1.0,
+  "diffs": []
+ },
+ "40": {
+  "path": "giong/040-t3.wav",
+  "duration_s": 5.24,
+  "score": 1.0,
+  "diffs": []
+ },
+ "41": {
+  "path": "giong/041-t2.wav",
+  "duration_s": 5.2,
+  "score": 1.0,
+  "diffs": []
+ },
+ "42": {
+  "path": "giong/042-t3.wav",
+  "duration_s": 9.68,
+  "score": 0.879,
+  "diffs": [
+   "ô ma ca xê→umakase"
+  ]
+ },
+ "43": {
+  "path": "giong/043-t2.wav",
+  "duration_s": 8.92,
+  "score": 0.966,
+  "diffs": [
+   "bày→bầy"
+  ]
+ },
+ "44": {
+  "path": "giong/044-t2.wav",
+  "duration_s": 4.72,
+  "score": 1.0,
+  "diffs": []
+ },
+ "45": {
+  "path": "giong/045-t2.wav",
+  "duration_s": 6.72,
+  "score": 0.947,
+  "diffs": [
+   "nghìn→không"
+  ]
+ },
+ "46": {
+  "path": "giong/046-t2.wav",
+  "duration_s": 7.72,
+  "score": 1.0,
+  "diffs": []
+ },
+ "47": {
+  "path": "giong/047-t2.wav",
+  "duration_s": 2.92,
+  "score": 0.875,
+  "diffs": [
+   "thằng→hưng"
+  ]
+ },
+ "48": {
+  "path": "giong/048-t1.wav",
+  "duration_s": 5.6,
+  "score": 1.0,
+  "diffs": []
+ },
+ "49": {
+  "path": "giong/049-t1.wav",
+  "duration_s": 9.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "50": {
+  "path": "giong/050-t2.wav",
+  "duration_s": 8.76,
+  "score": 0.955,
+  "diffs": [
+   "víp→vip"
+  ]
+ },
+ "51": {
+  "path": "giong/051-t3.wav",
+  "duration_s": 7.84,
+  "score": 1.0,
+  "diffs": []
+ },
+ "52": {
+  "path": "giong/052-t3.wav",
+  "duration_s": 11.88,
+  "score": 1.0,
+  "diffs": []
+ },
+ "53": {
+  "path": "giong/053-t1.wav",
+  "duration_s": 9.36,
+  "score": 1.0,
+  "diffs": []
+ },
+ "54": {
+  "path": "giong/054-t3.wav",
+  "duration_s": 8.6,
+  "score": 0.783,
+  "diffs": [
+   "omakase→ô ma ca xê"
+  ]
+ },
+ "55": {
+  "path": "giong/055-t1.wav",
+  "duration_s": 7.32,
+  "score": 1.0,
+  "diffs": []
+ },
+ "56": {
+  "path": "giong/056-t1.wav",
+  "duration_s": 9.08,
+  "score": 1.0,
+  "diffs": []
+ },
+ "57": {
+  "path": "giong/057-t2.wav",
+  "duration_s": 6.32,
+  "score": 1.0,
+  "diffs": []
+ },
+ "58": {
+  "path": "giong/058-t1.wav",
+  "duration_s": 17.68,
+  "score": 1.0,
+  "diffs": []
+ },
+ "59": {
+  "path": "giong/059-t2.wav",
+  "duration_s": 5.16,
+  "score": 0.889,
+  "diffs": [
+   "chéc→chách",
+   "chéc→chách"
+  ]
+ },
+ "60": {
+  "path": "giong/060-t3.wav",
+  "duration_s": 6.04,
+  "score": 1.0,
+  "diffs": []
+ },
+ "61": {
+  "path": "giong/061-t3.wav",
+  "duration_s": 2.52,
+  "score": 1.0,
+  "diffs": []
+ },
+ "62": {
+  "path": "giong/062-t3.wav",
+  "duration_s": 1.8,
+  "score": 1.0,
+  "diffs": []
+ },
+ "63": {
+  "path": "giong/063-t3.wav",
+  "duration_s": 8.84,
+  "score": 0.944,
+  "diffs": [
+   "ghế→ghê"
+  ]
+ },
+ "64": {
+  "path": "giong/064-t1.wav",
+  "duration_s": 4.6,
+  "score": 1.0,
+  "diffs": []
+ },
+ "65": {
+  "path": "giong/065-t1.wav",
+  "duration_s": 1.84,
+  "score": 1.0,
+  "diffs": []
+ },
+ "66": {
+  "path": "giong/066-t1.wav",
+  "duration_s": 7.84,
+  "score": 0.95,
+  "diffs": [
+   "dờ→h"
+  ]
+ },
+ "67": {
+  "path": "giong/067-t2.wav",
+  "duration_s": 2.12,
+  "score": 1.0,
+  "diffs": []
+ },
+ "68": {
+  "path": "giong/068-t3.wav",
+  "duration_s": 10.4,
+  "score": 0.97,
+  "diffs": [
+   "đang→nang"
+  ]
+ },
+ "69": {
+  "path": "giong/069-t3.wav",
+  "duration_s": 12.64,
+  "score": 1.0,
+  "diffs": []
+ },
+ "70": {
+  "path": "giong/070-t3.wav",
+  "duration_s": 11.36,
+  "score": 1.0,
+  "diffs": []
+ },
+ "71": {
+  "path": "giong/071-t1.wav",
+  "duration_s": 11.52,
+  "score": 0.971,
+  "diffs": [
+   "mươi→mười"
+  ]
+ },
+ "72": {
+  "path": "giong/072-t3.wav",
+  "duration_s": 10.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "73": {
+  "path": "giong/073-t1.wav",
+  "duration_s": 15.68,
+  "score": 0.973,
+  "diffs": [
+   "app→áp"
+  ]
+ },
+ "74": {
+  "path": "giong/074-t1.wav",
+  "duration_s": 9.96,
+  "score": 0.938,
+  "diffs": [
+   "dì→gì"
+  ]
+ },
+ "75": {
+  "path": "giong/075-t1.wav",
+  "duration_s": 9.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "76": {
+  "path": "giong/076-t3.wav",
+  "duration_s": 10.04,
+  "score": 1.0,
+  "diffs": []
+ },
+ "77": {
+  "path": "giong/077-t1.wav",
+  "duration_s": 9.88,
+  "score": 0.955,
+  "diffs": [
+   "mua→mùa"
+  ]
+ },
+ "78": {
+  "path": "giong/078-t3.wav",
+  "duration_s": 10.04,
+  "score": 1.0,
+  "diffs": []
+ },
+ "79": {
+  "path": "giong/079-t1.wav",
+  "duration_s": 5.84,
+  "score": 0.923,
+  "diffs": [
+   "đấy→"
+  ]
+ },
+ "80": {
+  "path": "giong/080-t2.wav",
+  "duration_s": 10.48,
+  "score": 1.0,
+  "diffs": []
+ },
+ "81": {
+  "path": "giong/081-t3.wav",
+  "duration_s": 8.0,
+  "score": 0.95,
+  "diffs": [
+   "hoá→hóa"
+  ]
+ },
+ "82": {
+  "path": "giong/082-t1.wav",
+  "duration_s": 5.92,
+  "score": 0.909,
+  "diffs": [
+   "xổ→xố"
+  ]
+ },
+ "83": {
+  "path": "giong/083-t2.wav",
+  "duration_s": 7.24,
+  "score": 0.955,
+  "diffs": [
+   "threads→thật"
+  ]
+ },
+ "84": {
+  "path": "giong/084-t3.wav",
+  "duration_s": 24.16,
+  "score": 0.981,
+  "diffs": [
+   "acc→ạc"
+  ]
+ },
+ "85": {
+  "path": "giong/085-t1.wav",
+  "duration_s": 3.0,
+  "score": 0.9,
+  "diffs": [
+   "bài→bà"
+  ]
+ },
+ "86": {
+  "path": "giong/086-t1.wav",
+  "duration_s": 8.12,
+  "score": 0.929,
+  "diffs": [
+   "cầu→câu",
+   "threads→threat"
+  ]
+ },
+ "87": {
+  "path": "giong/087-t1.wav",
+  "duration_s": 4.36,
+  "score": 0.929,
+  "diffs": [
+   "chéc→chách"
+  ]
+ },
+ "88": {
+  "path": "giong/088-t3.wav",
+  "duration_s": 11.88,
+  "score": 0.949,
+  "diffs": [
+   "phông→phong",
+   "xúm→xuống"
+  ]
+ },
+ "89": {
+  "path": "giong/089-t1.wav",
+  "duration_s": 8.64,
+  "score": 0.952,
+  "diffs": [
+   "hệt→hề"
+  ]
+ },
+ "90": {
+  "path": "giong/090-t2.wav",
+  "duration_s": 9.04,
+  "score": 0.82,
+  "diffs": [
+   "xoá→xóa",
+   "nhé→nhá",
+   "zalo→da lô"
+  ]
+ },
+ "91": {
+  "path": "giong/091-t3.wav",
+  "duration_s": 11.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "92": {
+  "path": "giong/092-t1.wav",
+  "duration_s": 8.12,
+  "score": 0.912,
+  "diffs": [
+   "zalo→da lô"
+  ]
+ },
+ "93": {
+  "path": "giong/093-t2.wav",
+  "duration_s": 2.32,
+  "score": 1.0,
+  "diffs": []
+ },
+ "94": {
+  "path": "giong/094-t1.wav",
+  "duration_s": 13.84,
+  "score": 0.97,
+  "diffs": [
+   "chừ→chữ"
+  ]
+ },
+ "95": {
+  "path": "giong/095-t1.wav",
+  "duration_s": 11.76,
+  "score": 1.0,
+  "diffs": []
+ },
+ "96": {
+  "path": "giong/096-t2.wav",
+  "duration_s": 8.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "97": {
+  "path": "giong/097-t1.wav",
+  "duration_s": 5.16,
+  "score": 1.0,
+  "diffs": []
+ },
+ "98": {
+  "path": "giong/098-t1.wav",
+  "duration_s": 9.12,
+  "score": 1.0,
+  "diffs": []
+ },
+ "99": {
+  "path": "giong/099-t1.wav",
+  "duration_s": 8.36,
+  "score": 1.0,
+  "diffs": []
+ },
+ "100": {
+  "path": "giong/100-t3.wav",
+  "duration_s": 3.08,
+  "score": 1.0,
+  "diffs": []
+ },
+ "101": {
+  "path": "giong/101-t2.wav",
+  "duration_s": 1.24,
+  "score": 1.0,
+  "diffs": []
+ },
+ "102": {
+  "path": "giong/102-t1.wav",
+  "duration_s": 8.08,
+  "score": 1.0,
+  "diffs": []
+ },
+ "103": {
+  "path": "giong/103-t2.wav",
+  "duration_s": 9.64,
+  "score": 1.0,
+  "diffs": []
+ },
+ "104": {
+  "path": "giong/104-t3.wav",
+  "duration_s": 6.92,
+  "score": 0.864,
+  "diffs": [
+   "đéo ai chéc→điếu hỏi chách"
+  ]
+ },
+ "105": {
+  "path": "giong/105-t2.wav",
+  "duration_s": 4.88,
+  "score": 1.0,
+  "diffs": []
+ },
+ "106": {
+  "path": "giong/106-t1.wav",
+  "duration_s": 8.32,
+  "score": 1.0,
+  "diffs": []
+ },
+ "107": {
+  "path": "giong/107-t1.wav",
+  "duration_s": 4.56,
+  "score": 0.9,
+  "diffs": [
+   "xoá→xóa"
+  ]
+ },
+ "108": {
+  "path": "giong/108-t2.wav",
+  "duration_s": 4.24,
+  "score": 1.0,
+  "diffs": []
+ },
+ "109": {
+  "path": "giong/109-t1.wav",
+  "duration_s": 3.32,
+  "score": 0.857,
+  "diffs": [
+   "threads→threat"
+  ]
+ }
+}
