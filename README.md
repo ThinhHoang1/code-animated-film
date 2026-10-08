@@ -4,7 +4,7 @@
 
 *Phim hoạt hình vẽ tay 11 phút 47 giây, dựng hoàn toàn bằng code.*
 
-### ▶ [Watch the full film (1080p, 11:47, Vietnamese)](https://github.com/ThinhHoang1/ban-tay-muoi-nghin/releases/download/v1.0/ban-tay-muoi-nghin.mp4) · [release page](https://github.com/ThinhHoang1/ban-tay-muoi-nghin/releases/tag/v1.0)
+### ▶ [Watch the full film (1080p, 11:47, Vietnamese)](https://github.com/ThinhHoang1/code-animated-film/releases/download/v1.0/ban-tay-muoi-nghin.mp4) · [release page](https://github.com/ThinhHoang1/code-animated-film/releases/tag/v1.0)
 
 <p align="center"><img src="docs/film.gif" width="100%" alt="Opening: 11 p.m., a discounted omakase box, the narrator photographs it from above, 30 people on Threads buy the photo"></p>
 
@@ -74,7 +74,7 @@ npm run render                      # → renders/*.mp4 (about 20 min on an Appl
 BGM_DIR=path/to/music python3 am.py renders/in.mp4 renders/out.mp4
 ```
 
-Voices, music and renders are not in git (size and licensing). The released film is attached to the [v1.0 release](https://github.com/ThinhHoang1/ban-tay-muoi-nghin/releases/tag/v1.0).
+Voices, music and renders are not in git (size and licensing). The released film is attached to the [v1.0 release](https://github.com/ThinhHoang1/code-animated-film/releases/tag/v1.0).
 
 ## Credits
 
